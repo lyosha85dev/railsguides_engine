@@ -7,8 +7,8 @@ require "blorgh/version"
 Gem::Specification.new do |s|
   s.name        = "blorgh"
   s.version     = Blorgh::VERSION
-  s.authors     = ["Alex Karpov"]
-  s.email       = ["alex@oidejapan.jp"]
+  s.authors     = ["Alex"]
+  s.email       = ["lyosha85dev@gmail.com"]
   s.homepage    = "TODO"
   s.summary     = "TODO: Summary of Blorgh."
   s.description = "TODO: Description of Blorgh."
